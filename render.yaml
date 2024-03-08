@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: <name>
+    name: bob
     env: docker
     plan: free
